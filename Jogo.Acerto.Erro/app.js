@@ -29,6 +29,3 @@ while(chute != numeroSecreto) {
 let palavraTentativa = tentativas > 1 ? 'tentativas' : 'tentativa';
 alert(`Parabéns, você acertou o número secreto: ${numeroSecreto}, você descobriu o numero secreto com ${tentativas} ${palavraTentativa}`);
 
-
-
-
